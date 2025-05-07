@@ -1,7 +1,3 @@
-Here's a **README** file template for your "Mindcare Hub" project:
-
----
-
 # **Mindcare Hub - Final Project & Deployment**
 
 ## **Project Overview**
@@ -88,4 +84,5 @@ The website has been deployed to GitHub Pages. You can view the live website her
 4. Push to the branch (`git push origin feature-name`).
 5. Create a new pull request.
 
-
+# Author
+Elinah Mmbone
